@@ -1,0 +1,17 @@
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\aa-DJ\WindowsFormsApp1.resources.dll
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\aa\WindowsFormsApp1.resources.dll
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\aa-DJ\WindowsFormsApp1.resources.dll
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\aa\WindowsFormsApp1.resources.dll
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hydra.resources
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hydra.aa-DJ.resources
+C:\Users\Fivem 2.0\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hydra.aa.resources
